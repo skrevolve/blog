@@ -7,9 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -121,6 +124,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1kV0i9n6iJ1VxcOAdE3caDwxJHE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,6 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605770576999</updated>
       <workItem from="1605770578379" duration="509000" />
+      <workItem from="1605771098625" duration="413000" />
     </task>
     <servers />
   </component>
@@ -166,6 +171,14 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="394" y="319" width="491" height="249" key="ComposerInitDialogKey/0.0.1280.800@0.0.1280.800" timestamp="1605770963171" />
+    <state x="513" y="315" key="Github.ShareDialog" timestamp="1605771196615">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="513" y="315" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1605771196615" />
+    <state x="385" y="123" key="Github.UntrackedFilesDialog" timestamp="1605771204632">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="385" y="123" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1605771204632" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1605770844369">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
