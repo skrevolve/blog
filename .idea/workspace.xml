@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="26ed0a71-0441-4669-8c56-64a4c5945f89" name="Default Changelist" comment="" />
+    <list default="true" id="26ed0a71-0441-4669-8c56-64a4c5945f89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,7 +32,9 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable path="composer" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -132,8 +157,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/.env" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -151,12 +184,27 @@
       <option name="presentableId" value="Default" />
       <updated>1605770576999</updated>
       <workItem from="1605770578379" duration="509000" />
-      <workItem from="1605771098625" duration="413000" />
+      <workItem from="1605771098625" duration="3377000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="database update" />
+    <option name="LAST_COMMIT_MESSAGE" value="database update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="287" key="#Composer" timestamp="1605770651724">
@@ -167,10 +215,15 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="240" y="48" key="#Plugins/0.0.1280.800@0.0.1280.800" timestamp="1605771088681" />
-    <state x="394" y="319" width="491" height="249" key="ComposerInitDialogKey" timestamp="1605770963171">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="394" y="333" width="491" height="249" key="ComposerInitDialogKey" timestamp="1605774380525">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="394" y="319" width="491" height="249" key="ComposerInitDialogKey/0.0.1280.800@0.0.1280.800" timestamp="1605770963171" />
+    <state x="394" y="333" key="ComposerInitDialogKey/0.23.1280.777@0.23.1280.777" timestamp="1605774380525" />
+    <state x="489" y="324" key="ComposerValidateDialog" timestamp="1605774398321">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="489" y="324" key="ComposerValidateDialog/0.23.1280.777@0.23.1280.777" timestamp="1605774398321" />
     <state x="513" y="315" key="Github.ShareDialog" timestamp="1605771196615">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
@@ -195,13 +248,18 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1605770844368" />
+    <state x="171" y="23" key="SettingsEditor" timestamp="1605774585587">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="171" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1605774585587" />
     <state x="338" y="32" width="604" height="735" key="find.popup" timestamp="1605770979007">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="338" y="32" width="604" height="735" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1605770979007" />
-    <state x="338" y="44" width="670" height="676" key="search.everywhere.popup" timestamp="1605770992447">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="338" y="66" width="670" height="657" key="search.everywhere.popup" timestamp="1605774581861">
+      <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="338" y="44" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1605770992447" />
+    <state x="338" y="66" width="670" height="657" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1605774581861" />
   </component>
 </project>
