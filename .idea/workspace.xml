@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26ed0a71-0441-4669-8c56-64a4c5945f89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -190,7 +191,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605770576999</updated>
       <workItem from="1605770578379" duration="509000" />
-      <workItem from="1605771098625" duration="8709000" />
+      <workItem from="1605771098625" duration="9133000" />
     </task>
     <task id="LOCAL-00001" summary="database update">
       <created>1605774600740</created>
